@@ -6,14 +6,14 @@
     grid-template-areas: "header header" "sidebar calendar";
 }
 .page .header{
-    border: 5px solid green;
+
     grid-area: header;
 }
 .page .sidebar{
     grid-area: sidebar;
-    border: 5px solid red;
+
 }
 .page .calendar{
     grid-area: calendar;
-    border: 5px solid purple;
+
 }
